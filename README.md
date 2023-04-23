@@ -6,8 +6,8 @@
 	 
 	- 📫 How to reach me : you can find me here 
 	 
-		• 🌍 Website : DigitalAgency (rf.gd)
-		• 📹 LinkedIn : bakar Ghehioueche | LinkedIn
+		• 🌍 Website  : https://digitizing.rf.gd/
+		• 📹 LinkedIn : https://www.linkedin.com/in/bakar-ghehioueche/
 
 	Wanna chat or have me on your show? I'd love to!! Ping me on LinkedIn, My DMs are open 😃
 

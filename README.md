@@ -1,16 +1,13 @@
-### Hi there 👋
+	Hi there 👋 , I’m Ghehioueche  you can call me G as first letter, a Telecommunication engineer and also - 👀 I’m interested in back-end developing  : PHP, laravel, MySQL .
+🌱 I’m currently learning. 
+	
+	Currently 💞️ I’m looking to build and collaborate on some project and Start my career as backend junior php developer 
+	You can find here some frontEnd project and complete project build with  php and laravel and some Math challenges.
+	 
+	- 📫 How to reach me : you can find me here 
+	 
+		• 🌍 Website : DigitalAgency (rf.gd)
+		• 📹 LinkedIn : bakar Ghehioueche | LinkedIn
 
-<!--
-**ghbakar/ghbakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	Wanna chat or have me on your show? I'd love to!! Ping me on LinkedIn, My DMs are open 😃
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
